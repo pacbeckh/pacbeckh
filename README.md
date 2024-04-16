@@ -8,7 +8,7 @@ He works as a software engineer at Hexagon where he focuses on improving the dev
 Here's a quick overview of Paco's speaker experience. Presentations were usually 40-45 minutes unless mentioned otherwise. Videos are available by clicking on the 🎥 icon.
 
 #### [🔎 Cracking the Code Review: from Guesswork to Automated Guidance](https://sessionize.com/s/paco-van-beckhoven/cracking-the-code-review-from-guesswork-to-automat/94888)
-* 🇪🇸 Barcelona,  [Spring I/O](https://2024.springio.net/sessions/cracking-the-code-review-from-guesswork-to-automated-guidance/), 2024
+* 🇪🇸 Barcelona, [Spring I/O](https://2024.springio.net/sessions/cracking-the-code-review-from-guesswork-to-automated-guidance/), 2024
 * 🇨🇭 Zürich, [Zurich JUG](https://www.jug.ch/html/events/2024/code_review.html), 2024
 * 🇳🇱 Amsterdam, [Amsterdam JUG](https://www.meetup.com/amsterdam-java-user-group/events/300068976/), 2024
 
@@ -27,10 +27,10 @@ Here's a quick overview of Paco's speaker experience. Presentations were usually
 * 🇳🇴 Oslo, [Javazone](https://2019.javazone.no/program/31d05e05-4928-40d5-ba63-4fd64bf8798c) [🎥](https://vimeo.com/362761953), 2019
 * 🇳🇱 Utrecht, [OpenValue MeetUp](https://www.meetup.com/openvalue/events/263218108/), 2019
 
-Various in-house event including:, 
-[Illionx](https://www.ilionx.com/en/), [CGI](https://www.cgi.com/nl/nl), [Betabit](https://www.betabit.nl/), [Topicus](https://topicus.com/), [Spotler group](https://spotlergroup.com/) 2019-2024
-
 🇳🇱 Amsterdam, Guest lectures at University of Amsterdam, 2019, 2020, 2022
+
+Various in-house event for companies including: 
+[Illionx](https://www.ilionx.com/en/), [CGI](https://www.cgi.com/nl/nl), [Betabit](https://www.betabit.nl/), [Topicus](https://topicus.com/), [Spotler group](https://spotlergroup.com/), 2019-2024
 
 #### [❄️ Keeping your head cool with a serverless voice controlled fan / Your (pet) projects need voice integration](https://sessionize.com/s/paco-van-beckhoven/your-pet-projects-need-voice-integration/94889)
 
@@ -39,4 +39,4 @@ Various in-house event including:,
 * 🇳🇱 Utrecht, [Amsterdam JUG](https://www.meetup.com/Amsterdam-Java-User-Group/events/256497068/), 2018 
 * 🇧🇪 Antwerp, [Devoxx Belgium](https://devoxx.be/) [🎥](https://www.youtube.com/watch?v=BBQaRU4kn8w&ab_channel=Devoxx) (quickie), 2018
 * 🇳🇱 Ede, [J-Fall](https://jfall.nl/)  [🎥](https://www.youtube.com/watch?v=xW10krQ-hNU&ab_channel=NLJUG) (quickie), 2018
-* 🇳🇱 Utrecht, [OpenValue meetup](https://www.meetup.com/openvalue/events/253201522/), 2018 
+* 🇳🇱 Utrecht, [OpenValue MeetUp](https://www.meetup.com/openvalue/events/253201522/), 2018 
