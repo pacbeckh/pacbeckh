@@ -10,15 +10,15 @@ Here's a quick overview of Paco's speaker experience. Presentations were usually
 #### [🔎 Cracking the Code Review: from Guesswork to Automated Guidance](https://sessionize.com/s/paco-van-beckhoven/cracking-the-code-review-from-guesswork-to-automat/94888)
 * 🇳🇱 Utrecht, [OpenValue MeetUp](https://www.meetup.com/openvalue/events/300867711/), 2024
 * 🇪🇸 Barcelona, [Spring I/O](https://2024.springio.net/sessions/cracking-the-code-review-from-guesswork-to-automated-guidance/), 2024
-* 🇨🇭 Zürich, [Zurich JUG MeetUp](https://www.jug.ch/html/events/2024/code_review.html), 2024
-* 🇳🇱 Amsterdam, [Amsterdam JUG MeetUp](https://www.meetup.com/amsterdam-java-user-group/events/300068976/), 2024
+* 🇨🇭 Zürich, [Zurich JUG](https://www.jug.ch/html/events/2024/code_review.html), 2024
+* 🇳🇱 Amsterdam, [Amsterdam JUG](https://www.meetup.com/amsterdam-java-user-group/events/300068976/), 2024
 
 #### [🐛 Mutants to the rescue: How effective are your unit tests?](https://sessionize.com/s/paco-van-beckhoven/mutants-to-the-rescue-how-effective-are-your-unit-/94887)
 * 🇧🇪 Brussels, [FOSDEM](https://archive.fosdem.org/2023/schedule/event/mutation_testing/), 2023 [🎥](https://archive.fosdem.org/2023/schedule/event/mutation_testing/)
 * 🇷🇴 Bucharest, [Bucharest tech week](https://www.techweek.ro/post/here-s-to-software-architecture-summit-2023-and-the-best-moments-of-it), 2023
 * 🇵🇱 Gdansk, [InfoShare Gdansk](https://dev.infoshare.pl/poprzednie-edycje/2022/#speaker_lecture_5), 2022
-* 🇦🇪 Dubai, [Dubai JUG MeetUp](https://www.meetup.com/meetup-group-otgagdwa/events/286890463), 2022
-* 🌐 Online, [Jozi JUG MeetUp](https://www.meetup.com/jozi-jug/events/287615296/), 2022 
+* 🇦🇪 Dubai, [Dubai JUG](https://www.meetup.com/meetup-group-otgagdwa/events/286890463), 2022
+* 🌐 Online, [Jozi JUG](https://www.meetup.com/jozi-jug/events/287615296/), 2022 
 * 🌐 Online, [OpenValue MeetUp](https://www.meetup.com/openvalue/events/276303630/), 2021 [🎥](https://www.youtube.com/watch?v=kPj8SMXkm94&t=918s&ab_channel=OpenValue)
 * 🌐 Online, [Javaland](https://meine.doag.org/event/id.77/agenda.1/#eventDay.1615849200), 2021
 * 🌐 Online, [Picnic MeetUp](https://www.meetup.com/meetinup-picnic/events/281967669/), 2021
@@ -37,7 +37,7 @@ Various in-house event for companies including:
 
 * 🇳🇱 Amsterdam, [Digital Ocean MeetUp](https://www.meetup.com/DigitalOceanAmsterdam/), 2020 [🎥](https://www.youtube.com/live/96g8L6DsXw0?si=IeOcfNd9bxVt1Uy9&t=4060)
 * 🇳🇱 Amsterdam, [Codemotion Amsterdam](https://events.codemotion.com/conferences/amsterdam/2019/wp-content/themes/event/detail-talk5aae.html?detail=11786), 2019 [🎥](https://talks.codemotion.com/keeping-your-head-cool-with-a-serverless)
-* 🇳🇱 Utrecht, [Amsterdam JUG MeetUp](https://www.meetup.com/Amsterdam-Java-User-Group/events/256497068/), 2018 
+* 🇳🇱 Utrecht, [Amsterdam JUG](https://www.meetup.com/Amsterdam-Java-User-Group/events/256497068/), 2018 
 * 🇧🇪 Antwerp, [Devoxx Belgium](https://devoxx.be/) (quickie), 2018 [🎥](https://www.youtube.com/watch?v=BBQaRU4kn8w&ab_channel=Devoxx)
 * 🇳🇱 Ede, [J-Fall](https://jfall.nl/) (quickie), 2018 [🎥](https://www.youtube.com/watch?v=xW10krQ-hNU&ab_channel=NLJUG)
 * 🇳🇱 Utrecht, [OpenValue MeetUp](https://www.meetup.com/openvalue/events/253201522/), 2018 
