@@ -9,11 +9,12 @@ Here's a quick overview of Paco's speaker experience. Presentations were usually
 
 #### [🔎 Cracking the Code Review: from Guesswork to Automated Guidance](https://sessionize.com/s/paco-van-beckhoven/cracking-the-code-review-from-guesswork-to-automat/94888)
 * 🇳🇱 Utrecht, [OpenValue MeetUp](https://www.meetup.com/openvalue/events/300867711/), 2024
-* 🇪🇸 Barcelona, [Spring I/O](https://2024.springio.net/sessions/cracking-the-code-review-from-guesswork-to-automated-guidance/), 2024
+* 🇪🇸 Barcelona, [Spring I/O](https://2024.springio.net/sessions/cracking-the-code-review-from-guesswork-to-automated-guidance/), 2024 (awarded🥉 top 3 session of the conference, best newcomer)
 * 🇨🇭 Zürich, [Zurich JUG](https://www.jug.ch/html/events/2024/code_review.html), 2024
 * 🇳🇱 Amsterdam, [Amsterdam JUG](https://www.meetup.com/amsterdam-java-user-group/events/300068976/), 2024
 
 #### [🐛 Mutants to the rescue: How effective are your unit tests?](https://sessionize.com/s/paco-van-beckhoven/mutants-to-the-rescue-how-effective-are-your-unit-/94887)
+* 🌐 Online, [JavaDay Lviv](https://www.javaday.org.ua/program-2024-online), 2024
 * 🇧🇪 Brussels, [FOSDEM](https://archive.fosdem.org/2023/schedule/event/mutation_testing/), 2023 [🎥](https://archive.fosdem.org/2023/schedule/event/mutation_testing/)
 * 🇷🇴 Bucharest, [Bucharest tech week](https://www.techweek.ro/post/here-s-to-software-architecture-summit-2023-and-the-best-moments-of-it), 2023
 * 🇵🇱 Gdansk, [InfoShare Gdansk](https://dev.infoshare.pl/poprzednie-edycje/2022/#speaker_lecture_5), 2022
@@ -30,7 +31,7 @@ Here's a quick overview of Paco's speaker experience. Presentations were usually
 
 🇳🇱 Amsterdam, Guest lectures at University of Amsterdam, 2019, 2020, 2022
 
-Various in-house event for companies including: 
+Various in-house events for companies including: 
 [Illionx](https://www.ilionx.com/en/), [CGI](https://www.cgi.com/nl/nl), [Betabit](https://www.betabit.nl/), [Topicus](https://topicus.com/), [Spotler group](https://spotlergroup.com/), 2019-2024
 
 #### [❄️ Keeping your head cool with a serverless voice controlled fan / Your (pet) projects need voice integration](https://sessionize.com/s/paco-van-beckhoven/your-pet-projects-need-voice-integration/94889)
