@@ -9,7 +9,7 @@ Here's a quick overview of Paco's speaker experience. Presentations were usually
 
 #### [🔎 Cracking the Code Review: from Guesswork to Automated Guidance](https://sessionize.com/s/paco-van-beckhoven/cracking-the-code-review-from-guesswork-to-automat/94888)
 * 🇳🇱 Utrecht, [OpenValue MeetUp](https://www.meetup.com/openvalue/events/300867711/), 2024
-* 🇪🇸 Barcelona, [Spring I/O](https://2024.springio.net/sessions/cracking-the-code-review-from-guesswork-to-automated-guidance/), 2024 (awarded🥉 top 3 session of the conference, best newcomer)
+* 🇪🇸 Barcelona, [Spring I/O](https://2024.springio.net/sessions/cracking-the-code-review-from-guesswork-to-automated-guidance/), 2024 [🎥](https://youtu.be/i5d2s0BTBjI?si=VLdX6VXoMaU1GeZQ) (awarded🥉 top 3 session of the conference, best newcomer)
 * 🇨🇭 Zürich, [Zurich JUG](https://www.jug.ch/html/events/2024/code_review.html), 2024
 * 🇳🇱 Amsterdam, [Amsterdam JUG](https://www.meetup.com/amsterdam-java-user-group/events/300068976/), 2024
 
