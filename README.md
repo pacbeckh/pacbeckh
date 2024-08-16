@@ -18,7 +18,7 @@ Here's a quick overview of Paco's speaker experience. Presentations were usually
 * 🇳🇱 Amsterdam, [Amsterdam JUG](https://www.meetup.com/amsterdam-java-user-group/events/300068976/), 2024
 
 #### [🐛 Mutants to the rescue: How effective are your unit tests?](https://sessionize.com/s/paco-van-beckhoven/mutants-to-the-rescue-how-effective-are-your-unit-/94887)
-* 🇲🇦 Marrakesh, Devoxx Marrokko, 2024
+* 🇲🇦 Marrakesh, [Devoxx Marrokko](https://devoxx.ma/talk/?id=1255), 2024
 * 🇭🇷 Rovinj, [JavaCro](https://2024.javacro.hr/eng/Speakers2), 2024
 * 🇨🇭 Zurich, [VIScon ETH Zurich](https://viscon.vis.ethz.ch/2024), 2024
 * 🌐 Online, [JavaDay Lviv](https://www.javaday.org.ua/program-2024-online), 2024 [🎥](https://www.youtube.com/live/viHz8ODltsU?si=ZVCEh8ol-Qaino0c&t=23981)
