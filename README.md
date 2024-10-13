@@ -8,19 +8,19 @@ He works as a software engineer at Hexagon where he focuses on improving the dev
 Here's a quick overview of Paco's speaker experience. Presentations were usually 40-45 minutes unless mentioned otherwise. Videos are available by clicking on the 🎥 icon.
 
 #### [🔎 Cracking the Code Review: from Guesswork to Automated Guidance](https://sessionize.com/s/paco-van-beckhoven/cracking-the-code-review-from-guesswork-to-automat/94888)
-* 🇧🇪 Antwerp [Devoxx Belgium](https://devoxx.be/talk/?id=4402), 2024
 * 🇵🇱 Krakow [JDD](https://jdd.org.pl/lecture_2024/#id=94503), 2024
 * 🇬🇷 Thessaloniki [Voxxed Days Thessaloniki](https://voxxeddays.com/thessaloniki/schedule/talk/?id=1327), 2024
 * 🇭🇷 Rovinj, [JavaCro](https://2024.javacro.hr/eng/Speakers2), 2024
+* 🇧🇪 Antwerp [Devoxx Belgium](https://devoxx.be/talk/?id=4402), 2024 [🎥](https://youtu.be/uBkPBLt03eE?si=Vk4ocWcxgYkVonhj&t=528) 
 * 🇳🇱 Utrecht, [OpenValue MeetUp](https://www.meetup.com/openvalue/events/300867711/), 2024
 * 🇪🇸 Barcelona, [Spring I/O](https://2024.springio.net/sessions/cracking-the-code-review-from-guesswork-to-automated-guidance/), 2024 [🎥](https://youtu.be/i5d2s0BTBjI?si=VLdX6VXoMaU1GeZQ) (awarded🥉 top 3 session of the conference, best newcomer)
 * 🇨🇭 Zürich, [Zurich JUG](https://www.jug.ch/html/events/2024/code_review.html), 2024
 * 🇳🇱 Amsterdam, [Amsterdam JUG](https://www.meetup.com/amsterdam-java-user-group/events/300068976/), 2024
 
 #### [🐛 Mutants to the rescue: How effective are your unit tests?](https://sessionize.com/s/paco-van-beckhoven/mutants-to-the-rescue-how-effective-are-your-unit-/94887)
-* 🇲🇦 Marrakesh, [Devoxx Marrokko](https://devoxx.ma/talk/?id=1255), 2024
 * 🇭🇷 Rovinj, [JavaCro](https://2024.javacro.hr/eng/Speakers2), 2024
 * 🇨🇭 Zurich, [VIScon ETH Zurich](https://viscon.vis.ethz.ch/2024), 2024
+* 🇲🇦 Marrakesh, [Devoxx Marrokko](https://devoxx.ma/talk/?id=1255), 2024
 * 🌐 Online, [JavaDay Lviv](https://www.javaday.org.ua/program-2024-online), 2024 [🎥](https://www.youtube.com/live/viHz8ODltsU?si=ZVCEh8ol-Qaino0c&t=23981)
 * 🇧🇪 Brussels, [FOSDEM](https://archive.fosdem.org/2023/schedule/event/mutation_testing/), 2023 [🎥](https://archive.fosdem.org/2023/schedule/event/mutation_testing/)
 * 🇷🇴 Bucharest, [Bucharest tech week](https://www.techweek.ro/post/here-s-to-software-architecture-summit-2023-and-the-best-moments-of-it), 2023
