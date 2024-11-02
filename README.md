@@ -2,16 +2,19 @@
 ### About me 👋
 Paco van Beckhoven is a passionate and experienced software engineer that likes to challenge the world 🌎 and the software around him.
 He started speaking at conferences to entertain, and more importantly, educate 👨‍🏫 visitors on various topics with a focus on software quality.
-He works as a software engineer at Hexagon where he focuses on improving the development process.
+He works as a senior software engineer at Hexagon where he focuses on improving the development process.
 
 ### Presentations 
-Here's a quick overview of Paco's speaker experience. Presentations were usually 40-45 minutes unless mentioned otherwise. Videos are available by clicking on the 🎥 icon.
+Here's a quick overview of Paco's speaker experience. Presentations were usually 40-50 minutes unless mentioned otherwise. Videos are available by clicking on the 🎥 icon.
+Presentations are improved over time and tailored to the audience and the duration of the session.
 
 #### [🔎 Cracking the Code Review: from Guesswork to Automated Guidance](https://sessionize.com/s/paco-van-beckhoven/cracking-the-code-review-from-guesswork-to-automat/94888)
-* 🇵🇱 Krakow [JDD](https://jdd.org.pl/lecture_2024/#id=94503), 2024
-* 🇬🇷 Thessaloniki [Voxxed Days Thessaloniki](https://voxxeddays.com/thessaloniki/schedule/talk/?id=1327), 2024
+* 🇳🇱 Rotterdam, [Joy of Coding](https://joyofcoding.org/), 2025
+* 🇨🇭 Ticino, [Voxxed Days Ticino](https://ticino.voxxeddays.com/talk/cracking-the-code-review/), 2025
+* 🇵🇱 Krakow, [JDD](https://jdd.org.pl/lecture_2024/#id=94503), 2024
+* 🇬🇷 Thessaloniki, [Voxxed Days Thessaloniki](https://voxxeddays.com/thessaloniki/schedule/talk/?id=1327), 2024 [🎥](https://www.youtube.com/watch?v=A-20bqSU3tg&t=1834s&ab_channel=Devoxx)
 * 🇭🇷 Rovinj, [JavaCro](https://2024.javacro.hr/eng/Speakers2), 2024
-* 🇧🇪 Antwerp [Devoxx Belgium](https://devoxx.be/talk/?id=4402), 2024 [🎥](https://youtu.be/uBkPBLt03eE?si=Vk4ocWcxgYkVonhj&t=528) 
+* 🇧🇪 Antwerp, [Devoxx Belgium](https://devoxx.be/talk/?id=4402), 2024 [🎥](https://youtu.be/uBkPBLt03eE?si=Vk4ocWcxgYkVonhj&t=528) (rated 4,5/5 with 200 ratings) 
 * 🇳🇱 Utrecht, [OpenValue MeetUp](https://www.meetup.com/openvalue/events/300867711/), 2024
 * 🇪🇸 Barcelona, [Spring I/O](https://2024.springio.net/sessions/cracking-the-code-review-from-guesswork-to-automated-guidance/), 2024 [🎥](https://youtu.be/i5d2s0BTBjI?si=VLdX6VXoMaU1GeZQ) (awarded🥉 top 3 session of the conference, best newcomer)
 * 🇨🇭 Zürich, [Zurich JUG](https://www.jug.ch/html/events/2024/code_review.html), 2024
