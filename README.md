@@ -10,7 +10,9 @@ Presentations are improved over time and tailored to the audience and the durati
 
 #### [🔎 Cracking the Code Review: from Guesswork to Automated Guidance](https://sessionize.com/s/paco-van-beckhoven/cracking-the-code-review-from-guesswork-to-automat/94888)
 * 🇳🇱 Rotterdam, [Joy of Coding](https://joyofcoding.org/), 2025
+* 🇩🇪 Nürburgring, [JavaLand](https://my.doag.org/events/javaland/2025/agenda/#agendaId.5262), 2025
 * 🇨🇭 Ticino, [Voxxed Days Ticino](https://ticino.voxxeddays.com/talk/cracking-the-code-review/), 2025
+* 🇨🇭 Geneva, [Voxxed Days Cern](https://cern.voxxeddays.com/talk/cracking-the-code-review/), 2025
 * 🇵🇱 Krakow, [JDD](https://jdd.org.pl/lecture_2024/#id=94503), 2024
 * 🇬🇷 Thessaloniki, [Voxxed Days Thessaloniki](https://voxxeddays.com/thessaloniki/schedule/talk/?id=1327), 2024 [🎥](https://www.youtube.com/watch?v=A-20bqSU3tg&t=1834s&ab_channel=Devoxx)
 * 🇭🇷 Rovinj, [JavaCro](https://2024.javacro.hr/eng/Speakers2), 2024
