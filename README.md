@@ -11,6 +11,7 @@ Presentations are improved over time and tailored to the audience and the durati
 #### [🔎 Cracking the Code Review: from Guesswork to Automated Guidance](https://sessionize.com/s/paco-van-beckhoven/cracking-the-code-review-from-guesswork-to-automat/94888)
 * 🇿🇦 Johannesburg & Kaapstad, [Devconf](https://www.devconf.co.za/), 2025
 * 🇳🇱 Rotterdam, [Joy of Coding](https://joyofcoding.org/), 2025
+* 🇬🇧 London, [Devoxx UK](https://www.devoxx.co.uk/talks-by-sessions/?id=951), 2025
 * 🇳🇱 Amsterdam, [Voxxed Days Amsterdam](https://amsterdam.voxxeddays.com/talk/?id=2166), 2025
 * 🇩🇪 Nürburgring, [JavaLand](https://my.doag.org/events/javaland/2025/agenda/#agendaId.5262), 2025
 * 🇨🇭 Ticino, [Voxxed Days Ticino](https://ticino.voxxeddays.com/talk/cracking-the-code-review/), 2025 [🎥](https://youtu.be/wwqLhShXJi0?si=qiwyeGp4ZxxyDoJI)
@@ -46,7 +47,7 @@ Presentations are improved over time and tailored to the audience and the durati
 🇳🇱 Amsterdam, Guest lectures at University of Amsterdam, 2019, 2020, 2022
 
 Various in-house events for companies including: 
-[Illionx](https://www.ilionx.com/en/), [CGI](https://www.cgi.com/nl/nl), [Betabit](https://www.betabit.nl/), [Topicus](https://topicus.com/), [Spotler group](https://spotlergroup.com/), [Hexagon](https://hexagon.com/) 2019-2024
+[Illionx](https://www.ilionx.com/en/), [CGI](https://www.cgi.com/nl/nl), [Betabit](https://www.betabit.nl/), [Topicus](https://topicus.com/), [Spotler group](https://spotlergroup.com/), [Hexagon](https://hexagon.com/), [EDSN](https://www.edsn.nl/) 2019-2024
 
 #### [❄️ Keeping your head cool with a serverless voice controlled fan / Your (pet) projects need voice integration](https://sessionize.com/s/paco-van-beckhoven/your-pet-projects-need-voice-integration/94889)
 
