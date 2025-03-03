@@ -19,7 +19,8 @@ Presentations are improved over time and tailored to the audience and the durati
 * 🇵🇱 Krakow, [JDD](https://jdd.org.pl/lecture_2024/#id=94503), 2024
 * 🇬🇷 Thessaloniki, [Voxxed Days Thessaloniki](https://voxxeddays.com/thessaloniki/schedule/talk/?id=1327), 2024 [🎥](https://www.youtube.com/watch?v=A-20bqSU3tg&t=1834s&ab_channel=Devoxx)
 * 🇭🇷 Rovinj, [JavaCro](https://2024.javacro.hr/eng/Speakers2), 2024
-* 🇧🇪 Antwerp, [Devoxx Belgium](https://devoxx.be/talk/?id=4402), 2024 [🎥](https://youtu.be/uBkPBLt03eE?si=Vk4ocWcxgYkVonhj&t=528) (rated 4,5/5 with 200 ratings) 
+* 🇧🇪 Antwerp, [Devoxx Belgium](https://devoxx.be/talk/?id=4402), 2024 [🎥](https://youtu.be/uBkPBLt03eE?si=Vk4ocWcxgYkVonhj&t=528) (rated 4,5/5 with 200 ratings)
+* 🌐 Online, [Code Quality Conf](https://codequalityconf.com/), 2024 [🎥](https://www.youtube.com/watch?v=LWGeJIg5CyY&ab_channel=CSharpTV)
 * 🇳🇱 Utrecht, [OpenValue MeetUp](https://www.meetup.com/openvalue/events/300867711/), 2024
 * 🇪🇸 Barcelona, [Spring I/O](https://2024.springio.net/sessions/cracking-the-code-review-from-guesswork-to-automated-guidance/), 2024 [🎥](https://youtu.be/i5d2s0BTBjI?si=VLdX6VXoMaU1GeZQ) (awarded🥉 top 3 session of the conference, best newcomer)
 * 🇨🇭 Zürich, [Zurich JUG](https://www.jug.ch/html/events/2024/code_review.html), 2024
