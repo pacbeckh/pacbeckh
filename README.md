@@ -9,14 +9,14 @@ Here's a quick overview of Paco's speaker experience. Presentations were usually
 Presentations are improved over time and tailored to the audience and the duration of the session.
 
 #### [🔎 Cracking the Code Review: from Guesswork to Automated Guidance](https://sessionize.com/s/paco-van-beckhoven/cracking-the-code-review-from-guesswork-to-automat/94888)
-* 🇿🇦 Johannesburg & Kaapstad, [Devconf](https://www.devconf.co.za/), 2025
-* 🇳🇱 Rotterdam, [Joy of Coding](https://joyofcoding.org/), 2025
-* 🇬🇧 London, [Devoxx UK](https://www.devoxx.co.uk/talks-by-sessions/?id=951), 2025
-* 🇳🇱 Amsterdam, [Voxxed Days Amsterdam](https://amsterdam.voxxeddays.com/talk/?id=2166), 2025
+* 🇿🇦 Johannesburg & Kaapstad, [Devconf](https://www.devconf.co.za/), 2025 [🎥](https://www.youtube.com/watch?v=UKQ1vEL_wIA&ab_channel=DevConf)
+* 🇳🇱 Rotterdam, [Joy of Coding](https://joyofcoding.org/), 2025 [🎥](https://www.youtube.com/watch?v=V9kF5NmlUfQ&ab_channel=JoyofCoding)
+* 🇬🇧 London, [Devoxx UK](https://www.devoxx.co.uk/talks-by-sessions/?id=951), 2025 [🎥](https://www.youtube.com/watch?v=mzknFWRl3W0&ab_channel=DevoxxUK)
+* 🇳🇱 Amsterdam, [Voxxed Days Amsterdam](https://amsterdam.voxxeddays.com/talk/?id=2166), 2025 [🎥](https://www.youtube.com/watch?v=zyLP8hFsKo8&ab_channel=Devoxx)
 * 🇩🇪 Nürburgring, [JavaLand](https://my.doag.org/events/javaland/2025/agenda/#agendaId.5262), 2025
 * 🇨🇭 Ticino, [Voxxed Days Ticino](https://ticino.voxxeddays.com/talk/cracking-the-code-review/), 2025 [🎥](https://youtu.be/wwqLhShXJi0?si=qiwyeGp4ZxxyDoJI)
 * 🇨🇭 Geneva, [Voxxed Days Cern](https://cern.voxxeddays.com/talk/cracking-the-code-review/), 2025 [🎥](https://www.youtube.com/watch?v=70x3rpoDBi0&ab_channel=Devoxx)
-* 🇵🇱 Krakow, [JDD](https://jdd.org.pl/lecture_2024/#id=94503), 2024
+* 🇵🇱 Krakow, [JDD](https://jdd.org.pl/lecture_2024/#id=94503), 2024 [🎥](https://www.youtube.com/watch?v=yZROhOoERbc&ab_channel=PROIDEAEvents)
 * 🇬🇷 Thessaloniki, [Voxxed Days Thessaloniki](https://voxxeddays.com/thessaloniki/schedule/talk/?id=1327), 2024 [🎥](https://www.youtube.com/watch?v=A-20bqSU3tg&t=1834s&ab_channel=Devoxx)
 * 🇭🇷 Rovinj, [JavaCro](https://2024.javacro.hr/eng/Speakers2), 2024
 * 🇧🇪 Antwerp, [Devoxx Belgium](https://devoxx.be/talk/?id=4402), 2024 [🎥](https://youtu.be/uBkPBLt03eE?si=Vk4ocWcxgYkVonhj&t=528) (rated 4,5/5 with 200 ratings)
