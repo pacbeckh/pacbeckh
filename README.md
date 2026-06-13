@@ -9,6 +9,7 @@ Here's a quick overview of Paco's speaker experience. Presentations were usually
 Presentations are improved over time and tailored to the audience and the duration of the session.
 
 #### [🔎 Cracking the Code Review: from Guesswork to Automated Guidance](https://sessionize.com/s/paco-van-beckhoven/cracking-the-code-review-from-guesswork-to-automat/94888)
+* 🇵🇱 Krakow, [Devoxx Poland](https://m.devoxx.com/events/devoxxpl26/talks/8687/cracking-the-code-review), 2026
 * 🇿🇦 Johannesburg & Kaapstad, [Devconf](https://www.devconf.co.za/), 2025 [🎥](https://www.youtube.com/watch?v=UKQ1vEL_wIA&ab_channel=DevConf)
 * 🇳🇱 Rotterdam, [Joy of Coding](https://joyofcoding.org/), 2025 [🎥](https://www.youtube.com/watch?v=V9kF5NmlUfQ&ab_channel=JoyofCoding)
 * 🇬🇧 London, [Devoxx UK](https://www.devoxx.co.uk/talks-by-sessions/?id=951), 2025 [🎥](https://www.youtube.com/watch?v=mzknFWRl3W0&ab_channel=DevoxxUK)
@@ -27,6 +28,7 @@ Presentations are improved over time and tailored to the audience and the durati
 * 🇳🇱 Amsterdam, [Amsterdam JUG](https://www.meetup.com/amsterdam-java-user-group/events/300068976/), 2024
 
 #### [🐛 Mutants to the rescue: How effective are your unit tests?](https://sessionize.com/s/paco-van-beckhoven/mutants-to-the-rescue-how-effective-are-your-unit-/94887)
+* 🇵🇱 Krakow, [Devoxx Poland](https://m.devoxx.com/events/devoxxpl26/talks/8689/mutants-to-the-rescue-how-effective-are-your-unit-tests), 2026
 * 🇨🇭 St Gallen, [St. Gallen JUG](https://www.jug.ch/html/events/2025/mutation_testing.html), 2025
 * 🇭🇷 Rovinj, [JavaCro](https://2024.javacro.hr/eng/Speakers2), 2024
 * 🇨🇭 Zurich, [VIScon ETH Zurich](https://viscon.vis.ethz.ch/2024), 2024
