@@ -9,7 +9,9 @@ Here's a quick overview of Paco's speaker experience. Presentations were usually
 Presentations are improved over time and tailored to the audience and the duration of the session.
 
 #### [🔎 Cracking the Code Review: from Guesswork to Automated Guidance](https://sessionize.com/s/paco-van-beckhoven/cracking-the-code-review-from-guesswork-to-automat/94888)
-* 🇵🇱 Krakow, [Devoxx Poland](https://m.devoxx.com/events/devoxxpl26/talks/8687/cracking-the-code-review), 2026
+* 🇳🇱 Ede, [jfall](https://jfall.nl/timetable-2026/), 2026
+* 🇲🇦 Casablanaca, [Devoxx Morocco](https://m.devoxx.com/events/dvma26/talks/5685/cracking-the-code-review), 2026
+* 🇵🇱 Krakow, [Devoxx Poland](https://m.devoxx.com/events/devoxxpl26/talks/8687/cracking-the-code-review), 2026 [🎥](https://www.youtube.com/watch?v=uoHFiWfabZo)
 * 🇿🇦 Johannesburg & Kaapstad, [Devconf](https://www.devconf.co.za/), 2025 [🎥](https://www.youtube.com/watch?v=UKQ1vEL_wIA&ab_channel=DevConf)
 * 🇳🇱 Rotterdam, [Joy of Coding](https://joyofcoding.org/), 2025 [🎥](https://www.youtube.com/watch?v=V9kF5NmlUfQ&ab_channel=JoyofCoding)
 * 🇬🇧 London, [Devoxx UK](https://www.devoxx.co.uk/talks-by-sessions/?id=951), 2025 [🎥](https://www.youtube.com/watch?v=mzknFWRl3W0&ab_channel=DevoxxUK)
@@ -32,7 +34,7 @@ Presentations are improved over time and tailored to the audience and the durati
 * 🇨🇭 St Gallen, [St. Gallen JUG](https://www.jug.ch/html/events/2025/mutation_testing.html), 2025
 * 🇭🇷 Rovinj, [JavaCro](https://2024.javacro.hr/eng/Speakers2), 2024
 * 🇨🇭 Zurich, [VIScon ETH Zurich](https://viscon.vis.ethz.ch/2024), 2024
-* 🇲🇦 Marrakesh, [Devoxx Marrokko](https://devoxx.ma/talk/?id=1255), 2024
+* 🇲🇦 Marrakesh, [Devoxx Morocco](https://devoxx.ma/talk/?id=1255), 2024
 * 🌐 Online, [JavaDay Lviv](https://www.javaday.org.ua/program-2024-online), 2024 [🎥](https://www.youtube.com/live/viHz8ODltsU?si=ZVCEh8ol-Qaino0c&t=23981)
 * 🇧🇪 Brussels, [FOSDEM](https://archive.fosdem.org/2023/schedule/event/mutation_testing/), 2023 [🎥](https://archive.fosdem.org/2023/schedule/event/mutation_testing/)
 * 🇷🇴 Bucharest, [Bucharest tech week](https://www.techweek.ro/post/here-s-to-software-architecture-summit-2023-and-the-best-moments-of-it), 2023
