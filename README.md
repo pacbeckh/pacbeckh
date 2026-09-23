@@ -30,7 +30,7 @@ Presentations are improved over time and tailored to the audience and the durati
 * 🇳🇱 Amsterdam, [Amsterdam JUG](https://www.meetup.com/amsterdam-java-user-group/events/300068976/), 2024
 
 #### [🐛 Mutants to the rescue: How effective are your unit tests?](https://sessionize.com/s/paco-van-beckhoven/mutants-to-the-rescue-how-effective-are-your-unit-/94887)
-* 🇵🇱 Krakow, [Devoxx Poland](https://m.devoxx.com/events/devoxxpl26/talks/8689/mutants-to-the-rescue-how-effective-are-your-unit-tests), 2026
+* 🇵🇱 Krakow, [Devoxx Poland](https://m.devoxx.com/events/devoxxpl26/talks/8689/mutants-to-the-rescue-how-effective-are-your-unit-tests), 2026 [🎥](https://www.youtube.com/watch?v=gWSliKiqgg8)
 * 🇨🇭 St Gallen, [St. Gallen JUG](https://www.jug.ch/html/events/2025/mutation_testing.html), 2025
 * 🇭🇷 Rovinj, [JavaCro](https://2024.javacro.hr/eng/Speakers2), 2024
 * 🇨🇭 Zurich, [VIScon ETH Zurich](https://viscon.vis.ethz.ch/2024), 2024
