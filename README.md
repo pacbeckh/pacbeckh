@@ -9,7 +9,7 @@ Here's a quick overview of Paco's speaker experience. Presentations were usually
 Presentations are improved over time and tailored to the audience and the duration of the session.
 
 #### [🔎 Cracking the Code Review: from Guesswork to Automated Guidance](https://sessionize.com/s/paco-van-beckhoven/cracking-the-code-review-from-guesswork-to-automat/94888)
-* 🇳🇱 Ede, [jfall](https://jfall.nl/timetable-2026/), 2026
+* 🇳🇱 Ede, [J-Fall](https://jfall.nl/timetable-2026/), 2026
 * 🇲🇦 Casablanaca, [Devoxx Morocco](https://m.devoxx.com/events/dvma26/talks/5685/cracking-the-code-review), 2026
 * 🇵🇱 Krakow, [Devoxx Poland](https://m.devoxx.com/events/devoxxpl26/talks/8687/cracking-the-code-review), 2026 [🎥](https://www.youtube.com/watch?v=uoHFiWfabZo)
 * 🇿🇦 Johannesburg & Kaapstad, [Devconf](https://www.devconf.co.za/), 2025 [🎥](https://www.youtube.com/watch?v=UKQ1vEL_wIA&ab_channel=DevConf)
